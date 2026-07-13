@@ -1,66 +1,63 @@
 # Hi, I'm Samjhana Bhusal 👋
 
-**Data Engineer • Aspiring PhD Researcher • Computer Architecture & ML for Systems**
-
-Building reliable data systems today while exploring the future of intelligent computer architecture.
-
----
-
-### 🚀 Research Interests
-
-* 🖥️ Computer Architecture
-* ⚡ High-Performance Systems
-* 🤖 Machine Learning for Systems
-* 📊 Distributed Data Systems
-* 🔍 Explainable AI
-
----
-
-### 💻 Tech Stack
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,pytorch,aws,mysql,postgresql,bash,vscode" />
+  <strong>Data Engineer • Aspiring PhD Researcher • Computer Architecture & ML for Systems</strong>
 </p>
 
----
-
-### 📌 Featured Projects
-
-* 🧠 **Hybrid Learned Index (RMI) vs B+Tree**
-* 📈 **Drift-Lab: Data Drift Detection**
-* 🌐 **GNN Explainability Under Adversarial Perturbations**
+> "Building intelligent systems at the intersection of machine learning and computer architecture."
 
 ---
 
-### 📊 GitHub
+## 🚀 Research Interests
+
+* 🖥️ **Computer Architecture** & Hardware-Software Co-design
+* ⚡ **High-Performance Systems** & Memory Hierarchies
+* 🤖 **Machine Learning for Systems** (Intelligent Compilers, Schedulers)
+* 📊 **Distributed Data Systems** & Storage Optimization
+* 🔍 **Explainable AI (XAI)** in Complex Architectures
+
+---
+
+## 💻 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `C` `Bash` |
+| **Frameworks & Tools** | `PyTorch` `Git` `Linux` `VS Code` |
+| **Data & Cloud** | `AWS` `MySQL` `PostgreSQL` |
+
+---
+
+## 📌 Featured Projects
+
+* 🧠 **Hybrid Learned Index (RMI) vs B+Tree**  
+  *Evaluating Recursive Model Indexes against traditional B+Trees for memory-efficient data retrieval.*
+* 📈 **Drift-Lab: Data Drift Detection**  
+  *Monitoring and detecting feature distribution shifts in production machine learning pipelines.*
+* 🌐 **GNN Explainability Under Adversarial Perturbations**  
+  *Investigating the robustness of Graph Neural Network explainers against adversarial graph topology attacks.*
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samjhana-bhusal&show_icons=true&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjhana-bhusal&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=samjhana-bhusal&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=samjhana-bhusal&show_icons=true&hide_border=true&title_color=008080&icon_color=008080&text_color=555555&bg_color=ffffff" alt="Samjhana's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjhana-bhusal&layout=compact&hide_border=true&title_color=008080&text_color=555555&bg_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://samjhanabhusal.com.np">
-<img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samjhana-bhusal-ab056b211">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bhusal.samjhana.05@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://samjhanabhusal.com.np">
+    <img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samjhana-bhusal-ab056b211">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhusal.samjhana.05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
----
-
-> *"Building intelligent systems at the intersection of machine learning and computer architecture."*
